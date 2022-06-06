@@ -1,0 +1,8 @@
+Instructions
+
+  To get these results, I compiled the source code 'caching.c' using command
+  'gcc -g -o caching caching.c' on my terminal. Then, I made sure the small and
+  large files were in the same folder directory as my compiled source code. I then ran the
+  command './caching<small' and './caching<large' to get my results. I made sure to print out
+  the hits and misses in my source code for each cache implementation to make the results more
+  readable. The results are seen in my cacheResults file.

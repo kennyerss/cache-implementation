@@ -1,0 +1,19 @@
+Cache Hits/Miss Results
+
+  Small File:
+
+  Fully associative hit: 100964
+  Fully associative miss: 4088
+  Direct mapped hit: 98806
+  Direct mapped miss: 6246
+  Set associative hit: 100565
+  Set associative miss: 4487
+
+  Large File :
+
+  Fully associative hit: 16536483
+  Fully associative miss: 87074
+  Direct mapped hit: 16467847
+  Direct mapped miss: 155710
+  Set associative hit: 16534313
+  Set associative miss: 89244
